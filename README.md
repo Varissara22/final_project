@@ -55,8 +55,6 @@ crypto_dashboard/
 ├── toggle_switch.py             # Toggle switch widget
 ├── requirements.txt             # Dependencies
 ├── dashboard_preferences.json   # Saved preferences (auto-created after the first run)
-├── run.bat                      # Windows launcher
-├── run.sh                       # Mac/Linux launcher
 │
 ├── utils/                       # Helper functions
 │   ├── __init__.py
