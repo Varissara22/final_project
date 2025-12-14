@@ -1,0 +1,14 @@
+#All of Library you need to import before run this code
+
+#Built-in
+    - tkinter 
+    - json
+    - threading
+    - datetime (method: datetime) 
+    - collections (method: deque)
+    - time
+
+#install pip
+    - requests
+    - websocket
+    - matplotlib
